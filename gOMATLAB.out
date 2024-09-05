@@ -1,0 +1,37 @@
+Requesting 9130_GPROMS_ENCRYPTED license from server.
+License granted by server(s) corfu.rutgers.edu.
+
+gPROMS (R) - Version 4.2.0 (x64) for Microsoft Windows 7 Service Pack 1 Nov 30 2015
+general PROcess Modelling System
+
+Copyright (c) 1997-2015 Process Systems Enterprise Ltd
+
+gPROMS is a trademark of Process Systems Enterprise Ltd.
+All other registered and pending trademarks mentioned in this
+software are considered the sole property of their respective
+owners. All rights reserved.
+
+This computer program is protected by copyright law and 
+international treaties. Unauthorised copying, reproduction or
+distribution of this program is a violation of applicable laws.
+
+Visit WWW at http://www.psenterprise.com/ for more information.
+E-mail support.gPROMS@psenterprise.com for product support.
+
+
+The following processes are available:
+
+  Test_Rutgers_CDC_Module_April_edited_gOMATLAB
+
+Requesting 9130_SIM license from server.
+License granted by server(s) corfu.rutgers.edu.
+Execution of Test_Rutgers_CDC_Module_April_edited_gOMATLAB fails prematurely.
+
+Simulation took 52 seconds.
+Total CPU time: 52.167
+
+Returning 9130_SIM license to server.
+License returned to server.
+Returning 9130_GPROMS_ENCRYPTED license to server.
+License returned to server.
+Disconnected from license server
