@@ -1,3 +1,5 @@
+example code for the paper "Topology-informed Derivative-Free Stochastic Optimization Method"
+
 The code and simulation files for a Pharmaceutical Manufacturing Process Model.
 files include: 
 1. Matlab files for running the OMatlab
