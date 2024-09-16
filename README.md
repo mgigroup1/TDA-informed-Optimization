@@ -1,4 +1,4 @@
-example code for the paper "Topology-informed Derivative-Free Stochastic Optimization Method"
+* example code for the paper "Topology-informed Derivative-Free Stochastic Optimization Method"
 
 The code and simulation files for a Pharmaceutical Manufacturing Process Model.
 files include: 
@@ -7,6 +7,6 @@ files include:
 3. concise pseudocode version of the Python code 
 
 
-case study reference:  
+* case study reference:  
 
 Surjanovic, S. (n.d.). Simulation and optimization. Simon Fraser University. https://www.sfu.ca/~ssurjano/index.html
